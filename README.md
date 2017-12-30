@@ -1,5 +1,5 @@
 # PGPEncryptDecryptFiles
-### Spring Boot app which using Bouncy Castle library to encrypt and decrypt files (see JUnit test).
+### Spring Boot app which using Bouncy Castle library to encrypt and decrypt files.
 
 Instructions to **generate public and secret key** to encrypt/decrypt files or messages:
 
